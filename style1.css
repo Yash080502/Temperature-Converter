@@ -1,0 +1,43 @@
+#convert,#clear {
+    background-color: #5f6e1c;
+  }
+  #convert:hover {
+    background-color: #bcc768;
+  }
+  h1 {
+    font-family: sans-serif;
+    color: #f0e2e0;
+    text-align: center;
+  }
+  input {
+    margin: auto;
+    display: block;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 2em;
+    color: #201a15;
+    font-family: cursive, sans-serif;
+  }
+  ::-webkit-input-placeholder {
+     color: rgb(19, 15, 15);
+  }
+  :-moz-placeholder { 
+     color: rgb(22, 22, 22);  
+  }
+  ::-moz-placeholder {  
+     color: rgb(20, 17, 17);  
+  }
+  :-ms-input-placeholder {  
+     color: rgb(19, 15, 15);  
+  }
+  button {
+    margin: auto;
+    display: block;
+    padding: 10px;
+    font-size: 1.2em;
+    color: #dccfcf;
+  }
+
+  *{
+    background-color: #41667d;
+  }
